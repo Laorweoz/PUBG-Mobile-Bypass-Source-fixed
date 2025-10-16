@@ -1,6 +1,6 @@
 # PUBG Mobile Bypass
 
-It is a bypass application that allows players using emulators in PUBG Mobile to match with phone users and includes antiban features.
+It is a bypass application that al Mobile to match with phone users and includes antiban features.
 
 
 ## How to Use?
@@ -37,3 +37,4 @@ Leave a star in this repo to Contribute.
 ## License
 
 This project is licensed under the [MIT License](LICENSE). Check the license file for details.
+
